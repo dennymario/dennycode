@@ -1,0 +1,23 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-image: url("bg1.jpg");
+  background-size: cover;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1{
+
+  color: white;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+h4{
+  color: white;
+  font-weight: 200;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: red;
+}
